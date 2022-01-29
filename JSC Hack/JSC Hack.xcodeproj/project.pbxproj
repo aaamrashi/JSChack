@@ -22,6 +22,7 @@
 		0618BC1D27A5E801005B3570 /* activities_grades9-12.json in Resources */ = {isa = PBXBuildFile; fileRef = 0618BC1C27A5E801005B3570 /* activities_grades9-12.json */; };
 		0618BC1F27A5E858005B3570 /* NASA-Bonus math challenge.json in Resources */ = {isa = PBXBuildFile; fileRef = 0618BC1E27A5E858005B3570 /* NASA-Bonus math challenge.json */; };
 		0618BC2127A5E8A9005B3570 /* activities_gradesk-4.json in Resources */ = {isa = PBXBuildFile; fileRef = 0618BC2027A5E8A9005B3570 /* activities_gradesk-4.json */; };
+		0618BC2327A5EFF4005B3570 /* Activity Description.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0618BC2227A5EFF4005B3570 /* Activity Description.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -60,6 +61,7 @@
 		0618BC1C27A5E801005B3570 /* activities_grades9-12.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "activities_grades9-12.json"; sourceTree = "<group>"; };
 		0618BC1E27A5E858005B3570 /* NASA-Bonus math challenge.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "NASA-Bonus math challenge.json"; sourceTree = "<group>"; };
 		0618BC2027A5E8A9005B3570 /* activities_gradesk-4.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "activities_gradesk-4.json"; sourceTree = "<group>"; };
+		0618BC2227A5EFF4005B3570 /* Activity Description.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Activity Description.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,6 +124,7 @@
 				0618BC1C27A5E801005B3570 /* activities_grades9-12.json */,
 				0618BC1E27A5E858005B3570 /* NASA-Bonus math challenge.json */,
 				0618BC2027A5E8A9005B3570 /* activities_gradesk-4.json */,
+				0618BC2227A5EFF4005B3570 /* Activity Description.swift */,
 			);
 			path = "JSC Hack";
 			sourceTree = "<group>";
@@ -290,6 +293,7 @@
 				0618BBF227A4E6FC005B3570 /* JSC_Hack.xcdatamodeld in Sources */,
 				0618BC1927A5C223005B3570 /* ActivityPicker.swift in Sources */,
 				0618BC1727A59D42005B3570 /* ActivityTypePicker.swift in Sources */,
+				0618BC2327A5EFF4005B3570 /* Activity Description.swift in Sources */,
 				0618BC1527A4F256005B3570 /* GradePicker.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
