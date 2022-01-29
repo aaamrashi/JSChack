@@ -1,0 +1,75 @@
+[
+
+    {
+
+        "name": "Build Your Own Mars Helicopter",
+
+        "featured": false,
+
+        "image": "x",
+
+        "time": "30 Minutes",
+
+        "materials": [" 1 Large marshmallow", " • 4 Small marshmallows", " • 5 Toothpicks", " • Cardstock (to print out the last page of this document)", " • Scissors "],
+
+        "description": "NASA is sending a helicopter to Mars! This helicopter is called Ingenuity and is designed to test whether or not flight is a good way to study distant bodies in space. We have sent spacecraft to other planets, but this is the first aircraft that will fly on another world. In this activity, you will learn about this amazing feat of engineering as you build your own Mars helicopter model.",
+
+        "directions": ["1. The large marshmallow will represent Ingenuity’s fuselage. Ingenuity is fairly small, about 19 inches tall and weighing about 4 pounds, and the fuselage is about the size of a softball. The fuselage contains batteries, sensors, and cameras to power and control Ingenuity’s flight. It is insulated and has heaters to protect the equipment in the cold Martian environment where it can reach -130 oC at night.",
+
+            "2. Insert the four toothpicks into the marshmallow so they come out at angles as shown in Figure 1. The toothpicks represent the four hollow carbon-fiber legs on Ingenuity. Ingenuity’s legs are designed to be lightweight while still supporting the helicopter when it’s on the Martian surface. To take up less space, Ingenuity’s legs are folded while it’s being carried to Mars.",
+
+            "3. Place a small marshmallow at the end of each of the four toothpicks as shown in Figure 2.",
+
+            "These make the ends of the legs rounded, just like on Ingenuity. The rounded ends of the legs help the helicopter sit firmly, even on mildly uneven ground.",
+
+            "4. Print out the final page of this document on cardstock or other stiff paper. As shown in Figure 3, you will need to cut out one set of parts (a solar panel and two rotor blades) for each helicopter you are making. NOTE: The final page contains two sets in case you are making multiple models – you only need one set per model.",
+
+            "5. Make a small hole (see Figure 4) in the middle of each of the parts you cut out in the previous step. This can be done using a pushpin or other sharp object. This is to allow the toothpick to be pushed through the paper. Be careful poking the hole – you may need the assistance of an adult. ",
+
+            "6. Push a toothpick through the hole in the center of one of the rotor blades. The rotor blade should be about 3/4 of an inch from the end of the toothpick as shown in Figure 5. On Ingenuity, each rotor blade is about 4 feet long and rotates very fast (about 2800 revolutions per minute). The rotor blades need to be this large and rotate so quickly in order to create enough lift, the upward force on the helicopter, in the extremely thin Martian air ",
+
+            "7. Push the toothpick through the hole in the second rotor blade and adjust the blades so that they are aligned in different directions as shown in Figure 6. There should be a space of about 1/8 inch between the two rotors. Ingenuity has two rotor blades in order to create enough lift. Additionally, the two rotor blades rotate, or spin, in opposite directions. Normally when a rotor blade spins, it creates a force on the fuselage. By rotating in opposite directions, the forces created by the two rotor blades cancel each other out.",
+
+            "8. Push the end of the toothpick with the rotor blades on it through the hole in the center of the solar panel as shown in Figure 7. There should be about ¼ inch of the toothpick sticking out from the top of the solar panel. This piece of the toothpick represents the antenna located atop Ingenuity. On Ingenuity,the solar panel converts the Sun’s energy into electricity to charge the batteries. The antenna allows Ingenuity to communicate with the Mars rover, Perseverance, which can then communicate with NASA personnel back on Earth. ",
+
+            "9. Push the end of the toothpick which is furthest from the solar panel down through the center of the top of the large marshmallow as shown in Figure 8. Optional: Put your helicopter on Mars! NASA has sent several rovers to Mars and has made many images of the Martian surface available. You can find some of them at: https://www.nasa.gov/mission_pages/mars/images/index.html You can print out a picture of the Martian surface and display your completed model on that picture. "
+
+        ]
+
+
+
+    },
+
+
+
+    {
+
+        "name": "Make Your Own X-59",
+
+        "featured": false,
+
+        "image": "x",
+
+        "time": "20 minutes",
+
+        "materials": [
+
+            "Airplane Template (or 8½”x11” piece of paper)", "• Scissors", "• Tape "
+
+        ],
+
+        "description": "In this activity, you will make a paper airplane version of the X-59.",
+
+        "directions": ["1. Gather all of you supplies as shown in Figure 1 and listed above.",
+
+            "When you print the template, which is the last page of this document, make sure thatyou select “Fit to Paper” in the print dialog box.",
+
+            "2.When you are using the template, you will be folding along the dashed lines and cutting along the solid lines. Each fold line will be on the outside of the fold. In other words, after folding, you should still be able to see the line. After making a fold, run your fingernail along the fold to make it a firm fold.",
+
+            "3. Fold the paper in half lengthwise as shown in Figure 2. This is done by folding along line 1. ", "4. Unfold the paper.", "5. Fold the two corners into the middle along lines 2 and 2a (see Figure 3).", "6. Fold the two edges into the center along lines 3 and 3a as shown in Figure 4.", "7. Fold the paper in half lengthwise along line 1. Your plane should look like Figure 5 after this fold. ", "8. Fold the wings down along lines 4 and 4a as shown in Figure 6.", "9. Use your scissors to cut along lines 5 and 5a (see Figure 7)"
+
+        ]
+
+    }
+
+]

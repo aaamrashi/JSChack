@@ -19,6 +19,9 @@
 		0618BC1527A4F256005B3570 /* GradePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0618BC1427A4F256005B3570 /* GradePicker.swift */; };
 		0618BC1727A59D42005B3570 /* ActivityTypePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0618BC1627A59D42005B3570 /* ActivityTypePicker.swift */; };
 		0618BC1927A5C223005B3570 /* ActivityPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0618BC1827A5C223005B3570 /* ActivityPicker.swift */; };
+		0618BC1D27A5E801005B3570 /* activities_grades9-12.json in Resources */ = {isa = PBXBuildFile; fileRef = 0618BC1C27A5E801005B3570 /* activities_grades9-12.json */; };
+		0618BC1F27A5E858005B3570 /* NASA-Bonus math challenge.json in Resources */ = {isa = PBXBuildFile; fileRef = 0618BC1E27A5E858005B3570 /* NASA-Bonus math challenge.json */; };
+		0618BC2127A5E8A9005B3570 /* activities_gradesk-4.json in Resources */ = {isa = PBXBuildFile; fileRef = 0618BC2027A5E8A9005B3570 /* activities_gradesk-4.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +57,9 @@
 		0618BC1427A4F256005B3570 /* GradePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradePicker.swift; sourceTree = "<group>"; };
 		0618BC1627A59D42005B3570 /* ActivityTypePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActivityTypePicker.swift; sourceTree = "<group>"; };
 		0618BC1827A5C223005B3570 /* ActivityPicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActivityPicker.swift; sourceTree = "<group>"; };
+		0618BC1C27A5E801005B3570 /* activities_grades9-12.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "activities_grades9-12.json"; sourceTree = "<group>"; };
+		0618BC1E27A5E858005B3570 /* NASA-Bonus math challenge.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "NASA-Bonus math challenge.json"; sourceTree = "<group>"; };
+		0618BC2027A5E8A9005B3570 /* activities_gradesk-4.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "activities_gradesk-4.json"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,6 +119,9 @@
 				0618BC1427A4F256005B3570 /* GradePicker.swift */,
 				0618BC1627A59D42005B3570 /* ActivityTypePicker.swift */,
 				0618BC1827A5C223005B3570 /* ActivityPicker.swift */,
+				0618BC1C27A5E801005B3570 /* activities_grades9-12.json */,
+				0618BC1E27A5E858005B3570 /* NASA-Bonus math challenge.json */,
+				0618BC2027A5E8A9005B3570 /* activities_gradesk-4.json */,
 			);
 			path = "JSC Hack";
 			sourceTree = "<group>";
@@ -246,7 +255,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0618BC1D27A5E801005B3570 /* activities_grades9-12.json in Resources */,
+				0618BC1F27A5E858005B3570 /* NASA-Bonus math challenge.json in Resources */,
 				0618BBED27A4E6FC005B3570 /* Preview Assets.xcassets in Resources */,
+				0618BC2127A5E8A9005B3570 /* activities_gradesk-4.json in Resources */,
 				0618BBEA27A4E6FC005B3570 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
