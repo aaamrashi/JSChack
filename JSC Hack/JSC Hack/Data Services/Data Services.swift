@@ -3,7 +3,7 @@ import Foundation
 
 class DataServices {
     
-    static func getLocalData() -> [Missions] {
+    static func getLocalData() -> [MissionsSteps] {
         
         // Parse local json file
         
@@ -12,7 +12,7 @@ class DataServices {
         
         // Check if pathString is not nil, otherwise...
         guard pathString != nil else {
-            return [Missions]()
+            return [MissionsSteps]()
         }
         
         // Create a url object
@@ -27,14 +27,14 @@ class DataServices {
             
             do {
                 
-                let missionsData = try decoder.decode([Missions].self, from: data)
+                let missionsData = try decoder.decode([MissionsSteps].self, from: data)
                 
                 // Add the unique IDs
                 for r in missionsData {
                     r.id = UUID()
                     
                     // Add unique IDs to recipe ingredients
-                    for i in r.materials {
+                    for i in r.material {
                         i.id = UUID()
                     }
                 }
@@ -52,7 +52,7 @@ class DataServices {
             print(error)
         }
         
-        return [Missions]()
+        return [MissionsSteps]()
     }
     
 }

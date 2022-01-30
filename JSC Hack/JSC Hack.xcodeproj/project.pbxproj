@@ -23,8 +23,8 @@
 		0618BC1F27A5E858005B3570 /* NASA-Bonus math challenge.json in Resources */ = {isa = PBXBuildFile; fileRef = 0618BC1E27A5E858005B3570 /* NASA-Bonus math challenge.json */; };
 		0618BC2127A5E8A9005B3570 /* activities_gradesk-4.json in Resources */ = {isa = PBXBuildFile; fileRef = 0618BC2027A5E8A9005B3570 /* activities_gradesk-4.json */; };
 		0618BC2327A5EFF4005B3570 /* Activity Description.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0618BC2227A5EFF4005B3570 /* Activity Description.swift */; };
+		0618BC2527A646CD005B3570 /* Missions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0618BC2427A646CD005B3570 /* Missions.swift */; };
 		B683EC4A27A600F100157069 /* Data Services.swift in Sources */ = {isa = PBXBuildFile; fileRef = B683EC4927A600F100157069 /* Data Services.swift */; };
-		B683EC5127A6118D00157069 /* Missions.swift in Sources */ = {isa = PBXBuildFile; fileRef = B683EC5027A6118D00157069 /* Missions.swift */; };
 		B683EC5327A61E7800157069 /* Variable_Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = B683EC5227A61E7800157069 /* Variable_Models.swift */; };
 /* End PBXBuildFile section */
 
@@ -65,8 +65,8 @@
 		0618BC1E27A5E858005B3570 /* NASA-Bonus math challenge.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "NASA-Bonus math challenge.json"; sourceTree = "<group>"; };
 		0618BC2027A5E8A9005B3570 /* activities_gradesk-4.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "activities_gradesk-4.json"; sourceTree = "<group>"; };
 		0618BC2227A5EFF4005B3570 /* Activity Description.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Activity Description.swift"; sourceTree = "<group>"; };
+		0618BC2427A646CD005B3570 /* Missions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Missions.swift; path = "JSC Hack/Missions.swift"; sourceTree = SOURCE_ROOT; };
 		B683EC4927A600F100157069 /* Data Services.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Data Services.swift"; sourceTree = "<group>"; };
-		B683EC5027A6118D00157069 /* Missions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Missions.swift; sourceTree = "<group>"; };
 		B683EC5227A61E7800157069 /* Variable_Models.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Variable_Models.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -190,7 +190,7 @@
 		B683EC4D27A6111C00157069 /* ViewModel */ = {
 			isa = PBXGroup;
 			children = (
-				B683EC5027A6118D00157069 /* Missions.swift */,
+				0618BC2427A646CD005B3570 /* Missions.swift */,
 			);
 			path = ViewModel;
 			sourceTree = "<group>";
@@ -334,7 +334,7 @@
 				0618BBE627A4E6FB005B3570 /* JSC_HackApp.swift in Sources */,
 				B683EC5327A61E7800157069 /* Variable_Models.swift in Sources */,
 				0618BBF227A4E6FC005B3570 /* JSC_Hack.xcdatamodeld in Sources */,
-				B683EC5127A6118D00157069 /* Missions.swift in Sources */,
+				0618BC2527A646CD005B3570 /* Missions.swift in Sources */,
 				0618BC1927A5C223005B3570 /* ActivityPicker.swift in Sources */,
 				0618BC1727A59D42005B3570 /* ActivityTypePicker.swift in Sources */,
 				0618BC2327A5EFF4005B3570 /* Activity Description.swift in Sources */,
