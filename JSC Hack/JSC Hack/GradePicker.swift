@@ -9,6 +9,7 @@ import SwiftUI
 
 struct GradePicker: View {
     var body: some View {
+        var missions = Missions()
         VStack {
             Text("Choose Your Mission").font(.largeTitle)
             Spacer()

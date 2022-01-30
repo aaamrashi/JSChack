@@ -36,5 +36,85 @@
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0F1AB033-9C24-4E01-875E-F7C20DB37C9B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JSC Hack/GradePicker.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2D04C782-B00A-44C3-A0C7-9547BEC6B0CF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JSC Hack/GradePicker.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "2D04C782-B00A-44C3-A0C7-9547BEC6B0CF - 441b48cd6f11d70f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JSC_Hack.GradePicker.body.getter : some"
+                  moduleName = "JSC Hack"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaactij/Desktop/JSChack/JSC%20Hack/JSC%20Hack/GradePicker.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "272">
+               </Location>
+               <Location
+                  uuid = "2D04C782-B00A-44C3-A0C7-9547BEC6B0CF - 81a8f152867f0108"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Spacer, SwiftUI.NavigationLink&lt;JSC_Hack.GradePicker.missionButton, JSC_Hack.ActivityTypePicker&gt;, SwiftUI.NavigationLink&lt;JSC_Hack.GradePicker.missionButton, JSC_Hack.ActivityTypePicker&gt;, SwiftUI.NavigationLink&lt;JSC_Hack.GradePicker.missionButton, JSC_Hack.ActivityTypePicker&gt;, SwiftUI.Spacer)&gt; in JSC_Hack.GradePicker.body.getter : some"
+                  moduleName = "JSC Hack"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaactij/Desktop/JSChack/JSC%20Hack/JSC%20Hack/GradePicker.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "1716">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C1AE594B-2B03-4DB2-B540-4AEC7DD27C52"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JSC Hack/Data Services/Data Services.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "getLocalData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
    </Breakpoints>
 </Bucket>

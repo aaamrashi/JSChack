@@ -8,7 +8,7 @@ class DataServices {
         // Parse local json file
         
         // Get a url path to the json file
-        let pathString = Bundle.main.path(forResource: "missions", ofType: "json")
+        let pathString = Bundle.main.path(forResource: "activities_gradesk-4", ofType: "json")
         
         // Check if pathString is not nil, otherwise...
         guard pathString != nil else {
@@ -30,14 +30,14 @@ class DataServices {
                 let missionsData = try decoder.decode([MissionsSteps].self, from: data)
                 
                 // Add the unique IDs
-                for r in missionsData {
-                    r.id = UUID()
-                    
-                    // Add unique IDs to recipe ingredients
-                    for i in r.material {
-                        i.id = UUID()
-                    }
-                }
+//                for r in missionsData {
+//                    r.id = UUID()
+//                    
+//                    // Add unique IDs to recipe ingredients
+//                    for i in r.material {
+//                        i.id = UUID()
+//                    }
+//                }
                 
                 // Return the recipes
                 return missionsData
